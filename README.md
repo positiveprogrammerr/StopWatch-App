@@ -1,4 +1,4 @@
-# timer_app
+#StopWatch App
 
 A new Flutter project.
 
